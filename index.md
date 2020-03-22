@@ -273,4 +273,9 @@ Beginner to Intermediate experience in GIT required to work collaboratively as a
 
 </body>
 </html>
-
+<style>
+  
+  .page {
+  width: calc(100% - #{$right-sidebar-width-narrow});
+}
+</style>
