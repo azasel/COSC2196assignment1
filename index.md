@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title>My Profile</title>
 <meta charset="UTF-8">
@@ -160,14 +160,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
          </div>
         </div>
       </div>
-</p>
+
     <!-- End Right Column -->
     </div>
 
     <div class="w3-container w3-card w3-white w3-margin-bottom">
-      <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i><b>My Perfect Job</b></h2>
+      <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i><b>My Project</b></h2>
       <div class="w3-container">
-        <h3>My Project</h3>
+       
           <h4>Overview</h4>
           <p> My project proposal is a website site for selling customised pet tags that are laser engraved as per the user/Customers requirements.  The site would allow users/Customers to choose a pet tag style, colour and then proceed to designed the text and graphics with the ability to be able to set position of both to their liking.  The user/Customer shall have a choice of predefined fonts and graphics that they can rotate and move before placing the order.  A final image file shall be sent with the order so that the order can be completed.  The site shall require registration and login prior to any orders being placed.
 Orders shall be received and etched using a CO2 laser and then dispatch to user/Customer by mail.
