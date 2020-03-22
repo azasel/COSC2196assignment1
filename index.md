@@ -204,10 +204,10 @@ Orders shall be received and etched using a CO2 laser and then dispatch to user/
             The hardware features
           <li><b>CO2 Laser etching machine</b></li>
             Order shall be received with an image of the tag design.  The operator shall be able to load the images to a laser etching template to send to the laser.  The laser shall have the capabilities of etching anodised aluminium tags with text or graphics and multiple tags at a time.
-          </ul></p>
+          </ul>
 
           <h4>Tools and Technologies </h4>
-          <p> Tool and Technologies required are;
+          <p> Tool and Technologies required are;</p>
             <ul>
 <li>Computer capable of running Atom for programming
 <li>Server or host for the site
@@ -226,7 +226,7 @@ Highly precise instruments used to inscribe, decorate, or make custom logos on a
 <li>	Desktop computer capable of running CAD/CAM software to run the laser etching machine. </li>
 <li>CAD/CAM software to send designs to the laser machine.</li>
 </ul>
-</p>
+
 
 <h4>Skills Required </h4>
 <p> The skills required for this project are as follows;
