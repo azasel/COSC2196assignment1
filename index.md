@@ -139,7 +139,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
            <h5>Test Results</h5>
 
            <p style="width:100%">ADVOCATE ..</p>
-           <img src="brigsMyer.png" style="max-height:100%; max-width:100%;"  alt="16Personalities"> </img>
+           <img src="brigsMyer.png" style="max-height:100%; max-width:100%;"  alt="16Personalities">
            <br> <br>
         </div>
 
